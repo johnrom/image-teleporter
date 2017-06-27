@@ -1,10 +1,10 @@
 === Image Teleporter ===
-Contributors: bluemedicinelabs, internetmedicineman, trishacupra 
+Contributors: bluemedicinelabs, internetmedicineman, dr_scythe, trishacupra 
 Donate link: http://www.BlueMedicineLabs.com/
 Tags: images, gallery, photobloggers, attachments, photo, links, external, photographers, Flickr, save, download
 Requires at least: 2.7
-Tested up to: 3.8
-Stable tag: 1.1.3
+Tested up to: 4.4
+Stable tag: 1.1.7
 
 This plugin turns images that are hosted elsewhere into images that are now in your Media Library, and the code on your page is automatically updated.
 
@@ -95,6 +95,12 @@ Yes, there are numerous ways that this plugin could be used unethically, but the
 
 == Changelog ==
 
+= 1.1.7 =
+* Improve and verify compatibility up to WP 4.4
+
+= 1.1.5 =
+* Fixed several general bugs, and introduced dr_scythe to the plugin for development.
+
 = 1.1.3 =
 * Fixed some PHP Notices and Warnings found by David Law (seo-dave).
 
@@ -121,17 +127,17 @@ Yes, there are numerous ways that this plugin could be used unethically, but the
 = 1.0.4 =
 * Added Screenshot.
 
-= 1.0.3 = 
+= 1.0.3 =
 * Added the ability to handle HTTPS URL's and ignore case in URL's.
 
-= 1.0.2 = 
+= 1.0.2 =
 * Working on cleaning up code
 * Adding comments into the code and preparing to convert to Class
 
-= 1.0.1 = 
+= 1.0.1 =
 * Added the ability to work on all Pages/Posts/Custom Post Types
 
-= 1.0.0 = 
+= 1.0.0 =
 * Forked Plugin from BBQ Iguana at: http://bbq-iguana.appspot.com/wordpress-plugins/add-linked-images-to-gallery/
 * Previous developer dropped all development of Plugin.
 * New Plugin, New Name, all previous changelogs can be viewed from original developer.
